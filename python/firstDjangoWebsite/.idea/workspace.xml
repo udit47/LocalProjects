@@ -10,35 +10,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/music/models.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#28#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="detail.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-703">
-              <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/music/models.py" />
+        <option value="$PROJECT_DIR$/music/templates/music/detail.html" />
       </list>
     </option>
   </component>
@@ -63,6 +41,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -92,12 +72,10 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../myPollSite" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunDashboard">
@@ -127,18 +105,17 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13802083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13802083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32901832" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -163,25 +140,102 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/music/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1522598899220" expanded="true" signature="115:468" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="326:390" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="414:468" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="495:787" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="733:787" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-703">
+        <state relative-caret-position="95">
           <caret line="5" column="40" lean-forward="false" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
-          <folding />
+          <folding>
+            <marker date="1522599621822" expanded="true" signature="1057:3896" ph="..." />
+            <marker date="1522599621822" expanded="false" signature="1108:1128" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1129:1350" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1400:3877" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1445:3854" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1689:3827" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1725:2027" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1758:1990" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2063:3794" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2165:3716" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2273:2687" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2342:2645" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2440:2600" ph="..." />
+            <marker date="1522599621822" expanded="false" signature="2536:2542" ph=" " />
+            <marker date="1522599621822" expanded="true" signature="2728:3023" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2802:2981" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="3064:3678" ph="..." />
+            <marker date="1522599621822" expanded="false" signature="3144:3160" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="3161:3636" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="3424:3588" ph="..." />
+            <marker date="1522599621822" expanded="false" signature="3522:3528" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1522598899220" expanded="true" signature="115:468" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="326:390" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="414:468" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="495:787" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="733:787" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/templates/music/detail.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="34" column="71" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="34" selection-end-column="71" />
+          <folding>
+            <marker date="1522599621822" expanded="true" signature="1057:3896" ph="..." />
+            <marker date="1522599621822" expanded="false" signature="1108:1128" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1129:1350" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1400:3877" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1445:3854" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1689:3827" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1725:2027" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="1758:1990" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2063:3794" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2165:3716" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2273:2687" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2342:2645" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2440:2600" ph="..." />
+            <marker date="1522599621822" expanded="false" signature="2536:2542" ph=" " />
+            <marker date="1522599621822" expanded="true" signature="2728:3023" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="2802:2981" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="3064:3678" ph="..." />
+            <marker date="1522599621822" expanded="false" signature="3144:3160" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="3161:3636" ph="..." />
+            <marker date="1522599621822" expanded="true" signature="3424:3588" ph="..." />
+            <marker date="1522599621822" expanded="false" signature="3522:3528" ph=" " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/music/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="32" lean-forward="false" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+            <marker date="1522598899220" expanded="true" signature="115:468" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="326:390" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="414:468" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="495:787" ph="..." />
+            <marker date="1522598899220" expanded="true" signature="733:787" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
