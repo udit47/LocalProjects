@@ -1,28 +1,29 @@
 # all imports
 from django.shortcuts import render, get_object_or_404
-from django.http import HttpResponse, HttpResponseRedirect
+from django.http import HttpResponse, HttpResponseRedirect, Http404
 from django.template import loader
 from .models import Question,Choice
-from django.http import Http404
 from django.urls import reverse
+from django.views import generic
 
-# Index view for getting latest questions
-def index(request):
-    latest_question_list = Question.objects.order_by('-pub_date')[:5]
-    context = {
-        'latest_question_list': latest_question_list,
-    }
-    return render(request, 'polls/index.html', context)
+# Indexview class using generic listview for getting latest questions
+class IndexView(generic.ListView):
+    template_name = 'polls/index.html'
+    context_object_name = 'latest_question_list'
 
-# Detail view for getting details of particular question
-def detail(request, question_id):
-    question = get_object_or_404(Question, pk=question_id)
-    return render(request,'polls/detail.html', {'question':question})
+    def get_queryset(self):
+        # Return last 5 published questions
+        return Question.objects.order_by('-pub.date')[:5]
 
-# Result view for viewing results of polls of a question
-def results(request, question_id):
-    question = get_object_or_404(Question, pk=question_id)
-    return render(request, 'polls/results.html', {'question' : question})
+# DetailView class using generic DetailView for getting details of particular question
+class DetailView(generic.DetailView):
+    model = Question
+    template_name = 'polls/detail.html'
+
+# Resultview class using generic DetailView for viewing results of polls of a question
+class ResultView(generic.DetailView):
+    model = Question
+    template_name = 'polls/results.html'
 
 # Vote view for voting on a particular question.
 def vote(request, question_id):
